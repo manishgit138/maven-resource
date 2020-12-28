@@ -5,3 +5,5 @@ docker-repository-rc: maven
 docker-repository-final: maven2
 registry-username: abhisheknishant
 registry-password: abhishek138
+pipeline-tasks-git-uri: https://github.com/manishgit138/pipeline-tasks
+pipeline-tasks-git-branch: master
