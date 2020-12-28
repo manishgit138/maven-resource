@@ -1,6 +1,7 @@
 git-uri: https://github.com/manishgit138/maven-resource
 git-branch: master
-git_key.private_key: 
+git_key.private_key:
+git-uri-semver: git@github.com:manishgit138/maven-resource.git
 docker-repository-rc: maven
 docker-repository-final: maven2
 registry-username: abhisheknishant
