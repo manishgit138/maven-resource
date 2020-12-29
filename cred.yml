@@ -1,11 +1,11 @@
 git-uri: https://github.com/manishgit138/maven-resource
 git-branch: master
-git_key.private_key:
+git_key.private_key: SHA256:8ZtKWrXYTFkKgkG6wUeItPYMzftL9f5GYJVtd8prQus
 git-uri-semver: git@github.com:manishgit138/maven-resource.git
 docker-repository-rc: maven
 docker-repository-final: maven2
-registry-username: abhisheknishant
-registry-password: abhishek138
+docker.username: abhisheknishant
+docker.password: abhishek138
 pipeline-tasks-git-uri: https://github.com/manishgit138/pipeline-tasks
 pipeline-tasks-git-branch: master
 github-release-user: manishgit138
