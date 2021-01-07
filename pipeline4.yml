@@ -119,7 +119,8 @@ resources:
     uri: {{git-uri-semver}}
     branch: version
     file: version
-    private_key: ((git_key.private_key))
+    username: ((github.username))
+    password: ((github.password))
 
 - name: maven-resource-image-rc
   type: docker-image
